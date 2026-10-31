@@ -75,7 +75,7 @@ interface.
 ![Regression](screenshots/Data%20%2B%20Regression.png)
 
 ### 2. K-Means Clusters
-![K-Means](screenshots/K-Means%20Clusters.png)
+![K-Means](screenshots/K_Means%20Clusters.png)
 
 ### 3. Elbow Method
 ![Elbow](screenshots/Elbow.png)
@@ -85,6 +85,7 @@ interface.
 
 ### 5. Statistical Report
 ![Report](screenshots/Report.png)
+
 
 
 ##  Project Status
