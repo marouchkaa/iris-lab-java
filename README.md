@@ -68,9 +68,24 @@ interface.
 5. Ensure the java.desktop module is available.
 6. Run Main.java as a Java Application.
 
+
 ##  Screenshots
 
-Screenshots of the application will be added here.
+### 1. Data + Regression
+![Regression](screenshots/Data%20%2B%20Regression.png)
+
+### 2. K-Means Clusters
+![K-Means](screenshots/K-Means%20Clusters.png)
+
+### 3. Elbow Method
+![Elbow](screenshots/Elbow.png)
+
+### 4. Try a Flower
+![Flower Exploration](screenshots/Try%20a%20Flower.png)
+
+### 5. Statistical Report
+![Report](screenshots/Report.png)
+
 
 ##  Project Status
 
